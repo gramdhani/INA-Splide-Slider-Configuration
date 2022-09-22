@@ -1,4 +1,4 @@
-// splide function
+// splide function list
 function slider1() {
     const splides = $('.slider1');
 
