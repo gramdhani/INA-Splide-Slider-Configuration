@@ -1,5 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.2.2/dist/js/splide.min.js"></script>
-
 function slider1() {
     const splides = $('.slider1');
 
