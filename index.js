@@ -1,3 +1,4 @@
+// splide function
 function slider1() {
     const splides = $('.slider1');
 
